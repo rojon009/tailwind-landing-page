@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ### `yarn css:watch`
 
-Run this command after `yarn css:watch` it will see for changes and update css file just in time.
+Run this command after `yarn start` it will see for changes and update css file just in time.
